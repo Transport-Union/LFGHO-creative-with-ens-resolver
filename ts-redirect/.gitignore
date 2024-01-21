@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+.npmignore 
+.vscode
+*.log
+package-lock.json
+node_modules
+dist
+public/scripts
+public/styles
+bundle.js
+deploy.sh
+
